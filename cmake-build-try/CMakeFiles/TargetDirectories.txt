@@ -1,0 +1,3 @@
+C:/Users/vladi/Desktop/Lab2.4TryOne/cmake-build-try/CMakeFiles/my_executable.dir
+C:/Users/vladi/Desktop/Lab2.4TryOne/cmake-build-try/CMakeFiles/edit_cache.dir
+C:/Users/vladi/Desktop/Lab2.4TryOne/cmake-build-try/CMakeFiles/rebuild_cache.dir

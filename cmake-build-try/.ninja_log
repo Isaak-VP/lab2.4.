@@ -1,0 +1,7 @@
+# ninja log v6
+1	635	7502865427554837	CMakeFiles/my_executable.dir/main.cpp.obj	cdcc5a9a21dba098
+7	824	7502865427609035	CMakeFiles/my_executable.dir/Dictionary.cpp.obj	39f637584ae259eb
+824	952	7502865435781762	my_executable.exe	8f19bfb93deddbf5
+7	579	7502872862103171	CMakeFiles/my_executable.dir/main.cpp.obj	cdcc5a9a21dba098
+15	816	7502872862178411	CMakeFiles/my_executable.dir/Dictionary.cpp.obj	39f637584ae259eb
+816	956	7502872870192922	my_executable.exe	8f19bfb93deddbf5
